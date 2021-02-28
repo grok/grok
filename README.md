@@ -10,6 +10,6 @@ Throughout my career, I have had the privilege of working with brands such as Go
 
 If you happen to speak Russian: Я говорю по-русски плохо, но я учусь. 😅
 
-Outside of code, I enjoy adventuring with my Wife, traveling, video games, our cat Simon (Саймон) and our dog Archer (Лучник).
+Outside of code, I enjoy adventuring with my Wife, traveling, video games, our cat Simon (Симон) and our dog Archer (Арчер).
 
 I am currently working with the amazing team at [Blackbird Logistics](https://myblackbird.com/).
