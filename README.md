@@ -12,4 +12,4 @@ If you happen to speak Russian: Я говорю по-русски плохо, н
 
 Outside of code, I enjoy adventuring with my wife, traveling, video games, our cat Simon (Симон) and our dog Archer (Арчер).
 
-I am currently working with the amazing team at [Blackbird Logistics](https://myblackbird.com/).
+I am currently working with the amazing team at [Landing](https://www.hellolanding.com/).
