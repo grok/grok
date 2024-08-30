@@ -9,5 +9,3 @@ My profession is most fulfilling when realizing the potential of people and tech
 Throughout my career, I have had the privilege of working with brands such as Google, NPM, Autodesk, Tahiti Tourisme, Yosemite National Park, Niantic Inc, the University of California, and many more. But more than anything the people I work with are what I remember.
 
 Outside of code, I enjoy adventuring with my wife, traveling, reading books, video games, and our dog Archer (Арчер).
-
-I am currently looking for new opportunities.
