@@ -1,11 +1,7 @@
-👋 Hey there!
+👋 Hey, I'm Sterling.
 
-My name is Sterling Hamilton.
+I like figuring things out -- usually with code, sometimes without. I've built for the web, led teams, and helped people and companies grow. The sweet spot for me is where technology, creativity, and problem-solving overlap.
 
-I solve problems. Historically, by writing code. Most of my career has been within the realm of software engineering, web technologies, leadership, and mentorship. I've had the honor of working with many people, across many different roles with a shared passion for making a lasting impact within our teams, industries, and lives. I frequently find myself working at the intersection between technology, creativity, business, and problem-solving.
+I've worked with folks from all walks of life on projects for places like Google, NPM, Yosemite, and Niantic. The logos are nice, but it's the people and the shared "we actually pulled it off" moments I remember most.
 
-My profession is most fulfilling when realizing the potential of people and technology, to produce amazing results. From this, I have demonstrated success in large-scale deployments, rapid development, creative problem solving, definition and execution of complex scopes, creation of functional requirements, technical direction, team management and leadership of both onsite and remote employees, creation and implementation of methodologies and intellectual property, security audits, risk mitigation, and disaster recovery.
-
-Throughout my career, I have had the privilege of working with brands such as Google, NPM, Autodesk, Tahiti Tourisme, Yosemite National Park, Niantic Inc, the University of California, and many more. But more than anything the people I work with are what I remember.
-
-Outside of code, I enjoy adventuring with my wife, traveling, reading books, video games, and our dog Archer (Арчер).
+When I'm not working, I'm probably adventuring with my wife, hanging out with friends, hacking on small projects, reading, gaming, or spending time with our dog Archer.
